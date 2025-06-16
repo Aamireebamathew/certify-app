@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
+
 # Certify-app
 https://majestic-sorbet-f33c2e.netlify.app/
->>>>>>> 107addf3888c0d5ff4c2d5083993958188291b36
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
